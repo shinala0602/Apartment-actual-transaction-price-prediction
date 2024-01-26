@@ -7,7 +7,7 @@
 2. 각각의 데이터들을 전처리하는 과정에서 시간이 오래 걸리는 문제를 해결하기 위하여 코드를 간결하게 정리함
 3. 데이터프레임이 복잡하여 알고리즘 모델의 경우 단일 모델을 사용하는 전략을 선택
 
-(https://github.com/shinala0602/Apartment-actual-transaction-price-prediction/assets/59050396/928d0240-a4dc-47db-9d0f-be94d76b4e52)
+<img width="1108" alt="image" src="[https://user-images.githubusercontent.com/87609200/215307262-501215de-a6f6-4b64-bc6a-676c09073bc8](https://github.com/shinala0602/Apartment-actual-transaction-price-prediction/assets/59050396/928d0240-a4dc-47db-9d0f-be94d76b4e52).png">
 
 ### 느낀점  
 * 모델을 구성하는 능력만큼이나 데이터를 정제하고 원화한 동작이 이루어지게끔 만드는 기본적인 코딩 실력이 필수적임을 느낌
